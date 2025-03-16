@@ -1,0 +1,49 @@
+Welcome to the Calculator!
+You can use mathematical functions like sqrt(), abs(), power(base, exponent), and round().
+If you want a double type answer, input your numbers like 1.0. 
+Type 'history' to view your calculation history.
+Type 'file <filename>.txt' to evaluate expressions from a file.
+Enter the expression (or type 'exit' to quit): 
+34+(76-45)*2 - abs(-5)
+Result: 91
+Enter the expression (or type 'exit' to quit): 
+12.0/5.0
+Result: 2.4
+Enter the expression (or type 'exit' to quit): 
+round(3.14)
+Result: 3
+Enter the expression (or type 'exit' to quit): 
+abs(-25)
+Result: 25
+Enter the expression (or type 'exit' to quit): 
+sqrt(25)+(2+4)
+Result: 11
+Enter the expression (or type 'exit' to quit): 
+power(2, 5)
+Result: 32
+Enter the expression (or type 'exit' to quit): 
+12+(45+7
+ERROR! Close all of the brackets.
+Enter the expression (or type 'exit' to quit): 
+12/0
+ERROR! Division by zero is not allowed.
+Enter the expression (or type 'exit' to quit): 
+12%0
+ERROR! Division by zero is not allowed.
+Enter the expression (or type 'exit' to quit): 
+file input.txt
+Processing: 34+(76-45)*2 - abs(-5)
+Result: 91
+Enter the expression (or type 'exit' to quit): 
+history
+Calculation History:
+34+(76-45)*2-Math.abs(-5) = 91
+12.0/5.0 = 2.4
+(double)Math.round(3.14) = 3
+Math.abs(-25) = 25
+Math.sqrt(25)+(2+4) = 11
+Math.pow(2,5) = 32
+34+(76-45)*2-Math.abs(-5) = 91
+Enter the expression (or type 'exit' to quit): 
+exit
+Thank you for using the Calculator!
