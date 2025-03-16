@@ -14,7 +14,7 @@ public class Main {
         System.out.println("You can use mathematical functions like sqrt(), abs(), power(base, exponent), and round().");
         System.out.println("If you want a double type answer, input your numbers like 1.0. ");
         System.out.println("Type 'history' to view your calculation history.");
-        System.out.println("Type 'file <filename>' to evaluate expressions from a file.");
+        System.out.println("Type 'file <filename>.txt' to evaluate expressions from a file.");
 
         while (true) {
             System.out.println("Enter the expression (or type 'exit' to quit): ");
